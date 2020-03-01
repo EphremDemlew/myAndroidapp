@@ -1,0 +1,17 @@
+<resources>
+
+
+    <string name="pass"> Password</string>
+    <string name="u_name">Email</string>
+    <string name="log_in_btn">Log In</string>
+    <string name="log_out_btn">Log Out</string>
+    <string name="loginPref">com.ephrem.test0_loinPreference</string>
+    <string name="Login_Status_Preference">com.ephrem.test0_Login_Status_Preference</string>
+    <string name="app_name">Ephy</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="reg_pass">Passwords</string>
+    <string name="login_pref">login_preference</string>
+    <string name="pref_stat">login_status</string>
+
+
+</resources>
